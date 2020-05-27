@@ -1,0 +1,1 @@
+Hyperparameter Tuning Trial #58 Failed. 8 total hyperparameter trial failures were seen, out of 81 trials attempted, which is above the limit of 8. The last trial to fail was #58, with parameters: n_nodes=300, lr=8e-06, rate=0.3, 
